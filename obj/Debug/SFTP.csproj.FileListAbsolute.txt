@@ -1,8 +1,0 @@
-D:\D_Drive\Projects\2016-17\SFTP\bin\Debug\SFTP.exe.config
-D:\D_Drive\Projects\2016-17\SFTP\bin\Debug\SFTP.exe
-D:\D_Drive\Projects\2016-17\SFTP\bin\Debug\SFTP.pdb
-D:\D_Drive\Projects\2016-17\SFTP\bin\Debug\Renci.SshNet.dll
-D:\D_Drive\Projects\2016-17\SFTP\bin\Debug\Renci.SshNet.xml
-D:\D_Drive\Projects\2016-17\SFTP\obj\Debug\SFTP.csprojResolveAssemblyReference.cache
-D:\D_Drive\Projects\2016-17\SFTP\obj\Debug\SFTP.exe
-D:\D_Drive\Projects\2016-17\SFTP\obj\Debug\SFTP.pdb
