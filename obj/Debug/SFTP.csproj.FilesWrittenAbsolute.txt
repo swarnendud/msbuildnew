@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/MSbuild/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/var/lib/jenkins/workspace/MSbuild/obj/Debug/SFTP.exe
+/var/lib/jenkins/workspace/MSbuild/bin/Debug/Renci.SshNet.dll
+/var/lib/jenkins/workspace/MSbuild/bin/Debug/SFTP.exe
